@@ -1,0 +1,135 @@
+body{
+	margin: 0px;
+
+}
+.wrapper{
+	width: 80%;
+	margin: auto;
+}
+.top-left{
+	width: 40%;
+	float: left;
+}
+.top-right{
+	width: 60%;
+	overflow: hidden;
+
+	
+}
+.right-contant{
+float:left;
+margin-left: 30%;
+
+}
+.top-right ul li{
+	list-style: none;
+	float: left;
+	margin-right: 40px;
+	font-family: tahoma;
+	font-size: 16px;
+
+}
+
+.sub{
+	
+}
+.top-right a{
+	text-decoration: none;
+	color: #728282;
+}
+.top-right a:hover {
+	text-decoration: underline;
+}
+.signup{
+	float: right;
+	font-family: sans-serif;
+	margin-top: 13px;
+
+
+}
+	
+.signup input{
+	color: #ffffff;
+	background: blue;
+	border:1px solid blue;
+	border-radius: 3px;
+	height:30px;
+}
+.main-contant{
+	background-image: url(images1.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	min-height: 500px;
+	
+}
+.head h1{
+	text-align: center;
+	font-size: 35px;
+	margin-right:130px;
+	color: #ffffff
+}
+.email{
+	margin: 20px 400px;
+	color: #ffffff;
+	font-size: 18px;
+}
+.mobalil{
+	margin: 20px 385px;
+	color: #ffffff;
+	font-size: 18px;
+}
+.password{
+	margin: 20px 370px;
+	color: #ffffff;
+	font-size: 18px;
+}
+
+.re-password{
+	margin: 20px 342px;
+	color: #ffffff;
+	font-size: 18px;
+}
+
+.sing-up{
+	margin: 20px 440px;
+
+
+}
+
+.email input{
+	width: 489px;
+	height: 32px;
+	border:1px solid blue;
+	border-radius: 3px;
+
+}
+.mobalil input{
+	width: 489px;
+	height: 32px;
+	border:1px solid blue;
+	border-radius: 3px;
+}
+.password input{
+	width: 489px;
+	height: 32px;
+	border:1px solid blue;
+	border-radius: 3px;
+}
+.re-password input{
+	width: 489px;
+	height: 32px;
+	border:1px solid blue;
+	border-radius: 3px;
+}
+.sing-up input{
+	width: 87px;
+	height: 30px;
+	background: blue;
+	color: #ffffff;
+	border:1px solid blue;
+	border-radius: 3px;
+}
+ .footer{
+ 	min-height: 300px;
+ 	background: #064F94;
+ }
